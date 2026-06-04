@@ -1,23 +1,23 @@
 {
-  "@context": [
-    "https://www.w3.org/ns/did/v1"
-  ],
-  "id": "did:web:durga0417.github.io:stage:farmer",
-  "alsoKnownAs": [],
-  "service": [],
-  "verificationMethod": [
-    {
-      "id": "did:web:durga0417.github.io:stage:farmer#gbJTII2kvBkVRYraCFSftoZrr2Pe0LwniG8ee1phA9w",
-      "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:durga0417.github.io:stage:farmer",
-      "publicKeyMultibase": "z6MkvagXnUuuJ37mCWF1atNutKuuQFw9YFANUfjzYuahj7WR",
-      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
-    }
-  ],
-  "assertionMethod": [
-    "did:web:durga0417.github.io:stage:farmer#gbJTII2kvBkVRYraCFSftoZrr2Pe0LwniG8ee1phA9w"
-  ],
-  "authentication": [
-    "did:web:durga0417.github.io:stage:farmer#gbJTII2kvBkVRYraCFSftoZrr2Pe0LwniG8ee1phA9w"
-  ]
+"assertionMethod": [
+"did:web:durga0417.github.io:stage:farmer"
+],
+"service": [],
+"id": "did:web:durga0417.github.io:stage:farmer",
+"verificationMethod": [
+{
+"publicKeyMultibase": "z6MkvagXnUuuJ37mCWF1atNutKuuQFw9YFANUfjzYuahj7WR",
+"controller": "did:web:durga0417.github.io:stage:farmer",
+"id": "did:web:durga0417.github.io:stage:farmer#gbJTII2kvBkVRYraCFSftoZrr2Pe0LwniG8ee1phA9w",
+"type": "Ed25519VerificationKey2020",
+"@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+}
+],
+"@context": [
+"https://www.w3.org/ns/did/v1"
+],
+"alsoKnownAs": [],
+"authentication": [
+"did:web:durga0417.github.io:stage:farmer"
+]
 }
